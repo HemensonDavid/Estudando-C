@@ -1,3 +1,3 @@
-# Estudando-C++
+# Estudando C++
 
 Questões feitas enquanto estudava C++
